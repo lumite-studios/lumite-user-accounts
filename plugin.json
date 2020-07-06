@@ -1,0 +1,6 @@
+{
+	"slug": "LumiteUserAccounts",
+	"name": "Lumite Haunt User Accounts",
+	"main": "Plugin.php",
+	"description": "Add the ability for users to register and login to their account; and adds a user profile page."
+}
